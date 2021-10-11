@@ -25,6 +25,7 @@ Make pull request to this repo with your fork.
 <pre></code>
 </details>
 <details>
+  <img src="repo.previews/IMG_20211011_111151.jpg"/>
   <summary>Pagination</summary> 
  
 <H1>Pagination by @dev-sumanpandit</H1>
@@ -39,10 +40,10 @@ Make pull request to this repo with your fork.
   <summary>Toast</summary>  
 <H1>toast by @SGI-CAPP-AT2</H1>
 <H2>Directory</H2>
-  ```
+<pre><code>
    repo/toast/
              /app.js (*script)
              /style.css (*style)
              /index.html (demo)
-  ```
+</pre></code>
 </details>
