@@ -25,7 +25,8 @@ Make pull request to this repo with your fork.
 <pre></code>
 </details>
 <details>
-  <summary>Pagination</summary>  
+  <summary>Pagination</summary> 
+ 
 <H1>Pagination by @dev-sumanpandit</H1>
 <H2>Directory</H2>
 <pre><code>
@@ -35,7 +36,7 @@ Make pull request to this repo with your fork.
 <pre></code>
 </details>
 <details>
-  <summary>Accordian</summary>  
+  <summary>Toast</summary>  
 <H1>toast by @SGI-CAPP-AT2</H1>
 <H2>Directory</H2>
   ```
