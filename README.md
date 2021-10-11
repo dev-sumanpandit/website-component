@@ -16,6 +16,7 @@ Make pull request to this repo with your fork.
 # Components added recently.
 <details>
   <summary>Accordian</summary>  
+<img src="repo.previews/IMG_20211011_111206.jpg"/>
 <H1>Accordian by @CrackerSuman</H1>
 <H2>Directory structure</H2>
 <pre><code>
