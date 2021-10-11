@@ -14,3 +14,21 @@ Make changes in you fork by adding your components.
 ### 3. Generate a pr 
 Make pull request to this repo with your fork.
 # Components added recently.
+<details>
+  <summary>Accordian</summary>  
+  ## Accordian by @dev-sumanpandit
+  ### Directory structure
+  ```
+   repo/accrodian/
+                 /style.css (style)
+                 /index.html (demo)
+  ```
+</details>
+<details>
+  <summary>Pagination</summary>  
+  ## Pagination by Loading..
+  ### Directory
+  ```
+   Loading
+  ```
+</details>
