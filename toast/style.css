@@ -1,0 +1,35 @@
+.toast{
+ padding:10px; 
+ transition:0.4s;
+}
+.toast.active{
+ position:fixed;
+ left:10px;
+ top:10px;
+ width:calc(100vw - 40px);
+ max-width:500px;
+}
+.toast.light{
+ background:#ffffff;
+ border:1px solid #efefef;
+ color:black;
+ box-shadow:5px 5px 0 0 #efefef;
+}
+.toast.dark{
+ background:#151525;
+ border:1px solid #4f564f;
+ color:white;
+ box-shadow:5px 5px 0 0 #6a746a;
+}
+.toast.hidden{
+ position:fixed;
+ left:10px;
+ top:-500px;
+}
+@keyframes scale{
+ from{
+  transform:scale(0.2);
+ }to{
+  transform:scale(1);
+ }
+}
