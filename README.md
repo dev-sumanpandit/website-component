@@ -49,5 +49,7 @@ Make pull request to this repo with your fork.
              /index.html (demo)
 </pre></code>
 </details>
+
 ## Implemention of components
 For imImplementing any components of the repo download the (*) required files of the components and implemente it as it is implemented in demo files.
+> Required files are denoted with (*)
