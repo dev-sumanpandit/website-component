@@ -20,7 +20,7 @@ Make pull request to this repo with your fork.
 <H2>Directory structure</H2>
 <pre><code>
    repo/accrodian/
-                 /style.css (style)
+                 /style.css (*style)
                  /index.html (demo)
 <pre></code>
 </details>
@@ -28,7 +28,20 @@ Make pull request to this repo with your fork.
   <summary>Pagination</summary>  
 <H1>Pagination by @dev-sumanpandit</H1>
 <H2>Directory</H2>
-<pre><
-   Loading
+<pre><code>
+   repo/Pagination/
+                  /style.css (*style)
+                  /index.html (demo)
+<pre></code>
+</details>
+<details>
+  <summary>Accordian</summary>  
+<H1>toast by @SGI-CAPP-AT2</H1>
+<H2>Directory</H2>
+  ```
+   repo/toast/
+             /app.js (*script)
+             /style.css (*style)
+             /index.html (demo)
   ```
 </details>
