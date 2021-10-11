@@ -16,19 +16,19 @@ Make pull request to this repo with your fork.
 # Components added recently.
 <details>
   <summary>Accordian</summary>  
-  ## Accordian by @dev-sumanpandit
-  ### Directory structure
-  ```
+<H1>Accordian by @CrackerSuman</H1>
+<H2>Directory structure</H2>
+<pre><code>
    repo/accrodian/
                  /style.css (style)
                  /index.html (demo)
-  ```
+<pre></code>
 </details>
 <details>
   <summary>Pagination</summary>  
-  ## Pagination by Loading..
-  ### Directory
-  ```
+<H1>Pagination by @dev-sumanpandit</H1>
+<H2>Directory</H2>
+<pre><
    Loading
   ```
 </details>
