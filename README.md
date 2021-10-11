@@ -39,6 +39,7 @@ Make pull request to this repo with your fork.
 </details>
 <details>
   <summary>Toast</summary>  
+<img src="repo.previews/ezgif-3-30f21dc2121b.gif"/>
 <H1>toast by @SGI-CAPP-AT2</H1>
 <H2>Directory</H2>
 <pre><code>
