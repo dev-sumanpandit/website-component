@@ -66,5 +66,5 @@ Remember your upstream base branch should be main and source should be your feat
 </details>
 
 ## Implemention of components
-For imImplementing any components of the repo download the (*) required files of the components and implemente it as it is implemented in demo files.
+For implementing any components of the repo download the (*) required files of the components and implemente it as it is implemented in demo files.
 > Required files are denoted with (*)
