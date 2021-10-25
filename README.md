@@ -24,6 +24,12 @@ Make changes in you fork by adding your components.
 ### 4. Push Code and Create a Pull Request 
 You now have a new branch containing the modifications you want in the project you forked. Now, push your new branch to your remote github fork.
 
+## Swags of Hacktoberfest:
+- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2021 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
+ 
+     <li><B><p><img src="https://miro.medium.com/max/1050/1*4JctIO7irt8hFxBmTvUpiQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="tshirt image"></a></p><p><img src="https://miro.medium.com/max/1050/1*jkffr74bq5RsQ_xqDhgqYQ.jpeg" width="400" height="225" style="width: 400px; height: 225px;" alt="stickers image"></p>
+</b></li>
+
 $ git push origin <feature-branch> Now you are ready to help the project by opening a pull request means you now tell the project managers to add the feature or bug fix to original repository. Make pull request to this repo with your fork.
 
 Remember your upstream base branch should be main and source should be your feature branch. Click on create pull request and add a name to your pull request. You can also describe your feature.
